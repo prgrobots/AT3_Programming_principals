@@ -35,10 +35,8 @@ class Controller:
             self.view.display_admin_menu()
             choice = input("Select an option: ")
             if choice == '1':
-                self.add_product()
+                self.add_product()  
             elif choice == '2':
-                self.update_product()
-            elif choice == '3':
                 self.show_products()
             else:
                 print("Invalid choice. Please try again.")

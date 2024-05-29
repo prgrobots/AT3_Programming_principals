@@ -11,7 +11,6 @@ class View:
 
     def display_admin_menu(self):
         print("1. Add Product")
-        print("2. Update Product")
         print("3. View Products")
         print("4. Logout")
 
