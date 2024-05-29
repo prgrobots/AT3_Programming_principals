@@ -11,8 +11,8 @@ class View:
 
     def display_admin_menu(self):
         print("1. Add Product")
-        print("3. View Products")
-        print("4. Logout")
+        print("2. View Products")
+        print("3. Logout")
 
     def display_add_product(self):
         product_name = input("Enter product name: ")

@@ -1,6 +1,12 @@
+Welcom message 
+
+User selects:
+Quit, Buy Products or,
+ Admin Login
+
 remove add or update products in product manager
 
-
+add admin stays logged in
 
 
 
