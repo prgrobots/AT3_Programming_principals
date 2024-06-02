@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/murray/Documents/Github/ZAT113_AT3/venv"
+set -gx VIRTUAL_ENV "/home/murray/Documents/Github/AT3_Programming_principals/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

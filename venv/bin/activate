@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/murray/Documents/Github/ZAT113_AT3/venv"
+VIRTUAL_ENV="/home/murray/Documents/Github/AT3_Programming_principals/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

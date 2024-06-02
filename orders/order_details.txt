@@ -1,0 +1,24 @@
+Apple: 1 x $1 = $1
+Banana: 2 x $2 = $4
+
+Total Purchase Amount: $5Apple: 2 x $1 = $2
+
+Total Purchase Amount: $2
+
+Apple: 2 x $1 = $2
+Banana: 3 x $2 = $6
+
+Total Purchase Amount: $8
+
+Apple: 2 x $1 = $2
+
+Total Purchase Amount: $2
+
+Apple: 2 x $1 = $2
+
+Total Purchase Amount: $2
+
+Corn: 2 x $4 = $8
+
+Total Purchase Amount: $8
+
